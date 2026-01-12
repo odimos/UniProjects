@@ -8,13 +8,6 @@ export const projects = [
 
     },
     {
-        "title":"Social Media Sanctions and Misinformation Sharing",
-        "description":"Are social media sanctions politically biased, or are they the result of differences in misinformation sharing between people of different political beliefs?We follow the data and methodology Mohsen Mosleh presented in [this recent analysis in Nature](https://www.nature.com/articles/s41586-024-07942-8) Implemented in Python with reproducible notebooks and visualizations.",
-        "tags": ["Python", "Pandas", "Jupyter Notebook", "Data Analysis", "Visualization", "Vega-Altair", "Applied Machine Learning"],
-        "url":"https://github.com/odimos/Social-Media-Sanctions-and-Misinformation-Sharing",
-        "categories": ["AI"]
-    },
-    {
         "title":"Naive Bayes για Δυαδική Ταξινόμηση Κειμένου",
         "description":"Μελέτη του αλγορίθμου Naive Bayes για δυαδική ταξινόμηση κειμένου χρησιμοποιώντας την πολυμεταβλητή παραλλαγή Bernoulli. Υλοποιούνται και συγκρίνονται δύο εκδοχές του αλγορίθμου: μία από το μηδέν και μία με τη βιβλιοθήκη scikit-learn. Η αξιολόγηση γίνεται στο σύνολο δεδομένων IMDB και δείχνει ότι η υλοποίηση χωρίς εξωτερικές βιβλιοθήκες επιτυγχάνει ικανοποιητικό αποτέλεσμα συγκρίσιμο με της έτοιμης υλοποίησης.",
         "tags": ["Naive Bayes", "Text Classification", "Python", "scikit-learn", "Machine Learning", "Data Science"],
@@ -40,6 +33,13 @@ export const projects = [
         "description":"Play the sliding puzzle game and if you get stuck see the A* algorithm solve it for you.Html, CSS, JavaScript",
         "tags": ["A* Algorithm", "Sliding Puzzle", "Game", "JavaScript", "HTML", "CSS"],
         "url":"https://github.com/odimos/sliding-puzzle-solver-AI",
+        "categories": ["AI"]
+    },
+    {
+        "title":"Social Media Sanctions and Misinformation Sharing",
+        "description":"Are social media sanctions politically biased, or are they the result of differences in misinformation sharing between people of different political beliefs?We follow the data and methodology Mohsen Mosleh presented in [this recent analysis in Nature](https://www.nature.com/articles/s41586-024-07942-8) Implemented in Python with reproducible notebooks and visualizations.",
+        "tags": ["Python", "Pandas", "Jupyter Notebook", "Data Analysis", "Visualization", "Vega-Altair", "Applied Machine Learning"],
+        "url":"https://github.com/odimos/Social-Media-Sanctions-and-Misinformation-Sharing",
         "categories": ["AI"]
     },
     {
